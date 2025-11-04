@@ -25,7 +25,7 @@ Please avoid content that enables harassment, spam.
 ---
 
 ### License
-Apache License 2.0 — see `LICENSE`
+This project is licensed under the MIT **[Licence](LICENSE)**
 
 ---
 
