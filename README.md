@@ -9,7 +9,7 @@
 For **educational & authorized testing only**. Do **not** use this project to harass, spam, or harm others. Misuse may be illegal. Authors and maintainers are **not** responsible for improper use.
 
 ## Tested on:
-- Temux
+- Termux
 - Kali Linux 
 
 ### Credits
